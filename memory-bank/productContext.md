@@ -1,0 +1,1 @@
+Dynacorp makes custom widgets made from different materials like iron, copper, vibranium, and unobtanium. These widgets may be levers, wheels, pulleys, wedges, screws, or inclined planes. They need to keep track of which widgets are available, what customers have ordered, and process customer payments.
